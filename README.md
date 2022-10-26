@@ -15,9 +15,9 @@ RMSE : 0.020594
 ![image](https://user-images.githubusercontent.com/27802354/197935505-c34f3740-342b-40ac-8124-a93cdbb2a97b.png)  
 그다지 성능은 좋지 못했다. 
 
-녹색 : 베이스모델
-주황 : 예측
-파랑 : 
+녹색 : 베이스모델  
+주황 : 예측  
+파랑 : 실제  
 
 ## 그외
 Feature importance 확인 결과 LGBM 모델에서는 캔들봉보다 보조지표가 더 중요했다.
