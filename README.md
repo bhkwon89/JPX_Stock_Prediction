@@ -10,5 +10,8 @@ Feature 수 : 12개
 주어진 데이터를 이용하여 생성한 보조지표 8개를 추가하여 LGBM으로 예측
 
 ## 결과
+
+RMSE : 0.020594
+
 LGBM 모델에서는 캔들봉보다 보조지표가 더 중요했다.
 ![image](https://user-images.githubusercontent.com/27802354/197688261-bba4f2b4-6040-4a10-8f97-de72a07dcc81.png)
