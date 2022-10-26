@@ -10,9 +10,10 @@ Feature 수 : 12개
 주어진 데이터를 이용하여 생성한 보조지표 8개를 추가하여 LGBM으로 예측
 
 ## 결과
-RMSE : 0.020594
+
 ![image](https://user-images.githubusercontent.com/27802354/197935489-eab09c4e-f8ab-4ec1-becc-4e91e2e90682.png)
 ![image](https://user-images.githubusercontent.com/27802354/197935505-c34f3740-342b-40ac-8124-a93cdbb2a97b.png)  
+RMSE : 0.020594  
 그다지 성능은 좋지 못했다. 
 
 녹색 : 베이스모델  
